@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/giri/bin/Debug/net6.0/giri
+/Users/surovtsev/Desktop/git/examle/giri/bin/Debug/net6.0/giri.deps.json
+/Users/surovtsev/Desktop/git/examle/giri/bin/Debug/net6.0/giri.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/giri/bin/Debug/net6.0/giri.dll
+/Users/surovtsev/Desktop/git/examle/giri/bin/Debug/net6.0/giri.pdb
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.dll
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/refint/giri.dll
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.pdb
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/giri.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/giri/obj/Debug/net6.0/ref/giri.dll
