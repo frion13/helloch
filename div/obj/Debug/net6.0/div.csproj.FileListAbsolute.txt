@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/div/bin/Debug/net6.0/div
+/Users/surovtsev/Desktop/git/examle/div/bin/Debug/net6.0/div.deps.json
+/Users/surovtsev/Desktop/git/examle/div/bin/Debug/net6.0/div.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/div/bin/Debug/net6.0/div.dll
+/Users/surovtsev/Desktop/git/examle/div/bin/Debug/net6.0/div.pdb
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.dll
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/refint/div.dll
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.pdb
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/div.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/div/obj/Debug/net6.0/ref/div.dll
