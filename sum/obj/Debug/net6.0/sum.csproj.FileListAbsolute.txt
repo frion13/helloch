@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/sum/bin/Debug/net6.0/sum
+/Users/surovtsev/Desktop/git/examle/sum/bin/Debug/net6.0/sum.deps.json
+/Users/surovtsev/Desktop/git/examle/sum/bin/Debug/net6.0/sum.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/sum/bin/Debug/net6.0/sum.dll
+/Users/surovtsev/Desktop/git/examle/sum/bin/Debug/net6.0/sum.pdb
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.dll
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/refint/sum.dll
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.pdb
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/sum.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/sum/obj/Debug/net6.0/ref/sum.dll
