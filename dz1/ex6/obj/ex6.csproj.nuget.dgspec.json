@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/surovtsev/Desktop/git/examle/ex6/ex6.csproj": {}
+    "/Users/surovtsev/Desktop/git/examle/dz1/ex6/ex6.csproj": {}
   },
   "projects": {
-    "/Users/surovtsev/Desktop/git/examle/ex6/ex6.csproj": {
+    "/Users/surovtsev/Desktop/git/examle/dz1/ex6/ex6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/surovtsev/Desktop/git/examle/ex6/ex6.csproj",
+        "projectUniqueName": "/Users/surovtsev/Desktop/git/examle/dz1/ex6/ex6.csproj",
         "projectName": "ex6",
-        "projectPath": "/Users/surovtsev/Desktop/git/examle/ex6/ex6.csproj",
+        "projectPath": "/Users/surovtsev/Desktop/git/examle/dz1/ex6/ex6.csproj",
         "packagesPath": "/Users/surovtsev/.nuget/packages/",
-        "outputPath": "/Users/surovtsev/Desktop/git/examle/ex6/obj/",
+        "outputPath": "/Users/surovtsev/Desktop/git/examle/dz1/ex6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/surovtsev/.nuget/NuGet/NuGet.Config"

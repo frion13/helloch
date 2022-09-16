@@ -9,7 +9,11 @@ if (a>b)
 {
   Console.WriteLine((a) + " больше " + (b) + " меньше"); 
 }
-else
+else if (b>a)
 {
   Console.WriteLine((b) + " больше " + (a) + " меньше ");
+}
+else
+{
+  Console.WriteLine("Числа равны");
 }
