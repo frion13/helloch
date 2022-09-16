@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/ex9/bin/Debug/net6.0/ex9
+/Users/surovtsev/Desktop/git/examle/ex9/bin/Debug/net6.0/ex9.deps.json
+/Users/surovtsev/Desktop/git/examle/ex9/bin/Debug/net6.0/ex9.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/ex9/bin/Debug/net6.0/ex9.dll
+/Users/surovtsev/Desktop/git/examle/ex9/bin/Debug/net6.0/ex9.pdb
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.dll
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/refint/ex9.dll
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.pdb
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ex9.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/ex9/obj/Debug/net6.0/ref/ex9.dll

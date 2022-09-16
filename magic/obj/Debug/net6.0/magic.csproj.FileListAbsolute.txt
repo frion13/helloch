@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/magic/bin/Debug/net6.0/magic
+/Users/surovtsev/Desktop/git/examle/magic/bin/Debug/net6.0/magic.deps.json
+/Users/surovtsev/Desktop/git/examle/magic/bin/Debug/net6.0/magic.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/magic/bin/Debug/net6.0/magic.dll
+/Users/surovtsev/Desktop/git/examle/magic/bin/Debug/net6.0/magic.pdb
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.dll
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/refint/magic.dll
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.pdb
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/magic.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/magic/obj/Debug/net6.0/ref/magic.dll

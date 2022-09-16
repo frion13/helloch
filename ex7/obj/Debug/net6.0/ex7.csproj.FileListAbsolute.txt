@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/ex7/bin/Debug/net6.0/ex7
+/Users/surovtsev/Desktop/git/examle/ex7/bin/Debug/net6.0/ex7.deps.json
+/Users/surovtsev/Desktop/git/examle/ex7/bin/Debug/net6.0/ex7.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/ex7/bin/Debug/net6.0/ex7.dll
+/Users/surovtsev/Desktop/git/examle/ex7/bin/Debug/net6.0/ex7.pdb
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.dll
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/refint/ex7.dll
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.pdb
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ex7.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/ex7/obj/Debug/net6.0/ref/ex7.dll

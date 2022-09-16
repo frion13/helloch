@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/ex1/bin/Debug/net6.0/ex1
+/Users/surovtsev/Desktop/git/examle/ex1/bin/Debug/net6.0/ex1.deps.json
+/Users/surovtsev/Desktop/git/examle/ex1/bin/Debug/net6.0/ex1.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/ex1/bin/Debug/net6.0/ex1.dll
+/Users/surovtsev/Desktop/git/examle/ex1/bin/Debug/net6.0/ex1.pdb
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.dll
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/refint/ex1.dll
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.pdb
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ex1.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/ex1/obj/Debug/net6.0/ref/ex1.dll
