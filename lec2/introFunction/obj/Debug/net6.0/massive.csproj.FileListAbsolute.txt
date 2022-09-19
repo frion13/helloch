@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/massive/bin/Debug/net6.0/massive
+/Users/surovtsev/Desktop/git/examle/massive/bin/Debug/net6.0/massive.deps.json
+/Users/surovtsev/Desktop/git/examle/massive/bin/Debug/net6.0/massive.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/massive/bin/Debug/net6.0/massive.dll
+/Users/surovtsev/Desktop/git/examle/massive/bin/Debug/net6.0/massive.pdb
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.dll
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/refint/massive.dll
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.pdb
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/massive.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/massive/obj/Debug/net6.0/ref/massive.dll

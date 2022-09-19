@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/zd2/bin/Debug/net6.0/zd2
+/Users/surovtsev/Desktop/git/examle/zd2/bin/Debug/net6.0/zd2.deps.json
+/Users/surovtsev/Desktop/git/examle/zd2/bin/Debug/net6.0/zd2.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/zd2/bin/Debug/net6.0/zd2.dll
+/Users/surovtsev/Desktop/git/examle/zd2/bin/Debug/net6.0/zd2.pdb
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.dll
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/refint/zd2.dll
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.pdb
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/zd2.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/zd2/obj/Debug/net6.0/ref/zd2.dll

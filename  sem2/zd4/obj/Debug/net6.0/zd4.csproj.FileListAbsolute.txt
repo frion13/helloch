@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/zd4/bin/Debug/net6.0/zd4
+/Users/surovtsev/Desktop/git/examle/zd4/bin/Debug/net6.0/zd4.deps.json
+/Users/surovtsev/Desktop/git/examle/zd4/bin/Debug/net6.0/zd4.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/zd4/bin/Debug/net6.0/zd4.dll
+/Users/surovtsev/Desktop/git/examle/zd4/bin/Debug/net6.0/zd4.pdb
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.dll
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/refint/zd4.dll
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.pdb
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/zd4.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/zd4/obj/Debug/net6.0/ref/zd4.dll

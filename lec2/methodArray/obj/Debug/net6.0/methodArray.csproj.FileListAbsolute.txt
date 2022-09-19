@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/methodArray/bin/Debug/net6.0/methodArray
+/Users/surovtsev/Desktop/git/examle/methodArray/bin/Debug/net6.0/methodArray.deps.json
+/Users/surovtsev/Desktop/git/examle/methodArray/bin/Debug/net6.0/methodArray.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/methodArray/bin/Debug/net6.0/methodArray.dll
+/Users/surovtsev/Desktop/git/examle/methodArray/bin/Debug/net6.0/methodArray.pdb
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.dll
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/refint/methodArray.dll
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.pdb
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/methodArray.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/methodArray/obj/Debug/net6.0/ref/methodArray.dll

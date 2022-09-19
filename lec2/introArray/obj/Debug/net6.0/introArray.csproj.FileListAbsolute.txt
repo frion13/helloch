@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/introArray/bin/Debug/net6.0/introArray
+/Users/surovtsev/Desktop/git/examle/introArray/bin/Debug/net6.0/introArray.deps.json
+/Users/surovtsev/Desktop/git/examle/introArray/bin/Debug/net6.0/introArray.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/introArray/bin/Debug/net6.0/introArray.dll
+/Users/surovtsev/Desktop/git/examle/introArray/bin/Debug/net6.0/introArray.pdb
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.dll
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/refint/introArray.dll
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.pdb
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/introArray.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/introArray/obj/Debug/net6.0/ref/introArray.dll

@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/arrayList/bin/Debug/net6.0/arrayList
+/Users/surovtsev/Desktop/git/examle/arrayList/bin/Debug/net6.0/arrayList.deps.json
+/Users/surovtsev/Desktop/git/examle/arrayList/bin/Debug/net6.0/arrayList.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/arrayList/bin/Debug/net6.0/arrayList.dll
+/Users/surovtsev/Desktop/git/examle/arrayList/bin/Debug/net6.0/arrayList.pdb
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.dll
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/refint/arrayList.dll
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.pdb
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/arrayList.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/arrayList/obj/Debug/net6.0/ref/arrayList.dll

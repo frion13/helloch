@@ -1,0 +1,15 @@
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.csproj.AssemblyReference.cache
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.AssemblyInfoInputs.cache
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.AssemblyInfo.cs
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.csproj.CoreCompileInputs.cache
+/Users/surovtsev/Desktop/git/examle/zd3/bin/Debug/net6.0/zd3
+/Users/surovtsev/Desktop/git/examle/zd3/bin/Debug/net6.0/zd3.deps.json
+/Users/surovtsev/Desktop/git/examle/zd3/bin/Debug/net6.0/zd3.runtimeconfig.json
+/Users/surovtsev/Desktop/git/examle/zd3/bin/Debug/net6.0/zd3.dll
+/Users/surovtsev/Desktop/git/examle/zd3/bin/Debug/net6.0/zd3.pdb
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.dll
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/refint/zd3.dll
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.pdb
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/zd3.genruntimeconfig.cache
+/Users/surovtsev/Desktop/git/examle/zd3/obj/Debug/net6.0/ref/zd3.dll
