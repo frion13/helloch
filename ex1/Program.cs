@@ -1,14 +1,33 @@
-﻿// Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+﻿using System;
 
-// 456 -> 5
-// 782 -> 8
-// 918 -> 1
+// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+// 14212 -> нет
+
+// 12821 -> да
+
+// 23432 -> да
 
 Console.Clear();
-int Number = new Random().Next(99, 999);
-Console.WriteLine($"Дано число: {Number}");
-string anyNumberText = Convert.ToString(Number);
-Console.WriteLine($"Второй цифрой числа {Number} является {anyNumberText[1]}");
+Console.WriteLine("Введите Число: ");
+int num = int.Parse(Console.ReadLine());
+string n = Convert.ToString(num);
+int Len = n.Length;
+if (Len == 5)
+{
+    if (n[0] == n[4] && n[1] == n[3])
+    {
+       Console.WriteLine (n + " палиндром"); 
+    }
+    else
+    {
+        Console.WriteLine (n + " не палиндром"); 
+    }
+}
 
+else
+{
+     Console.WriteLine (n + " не является пятизначным"); 
+}
 
 

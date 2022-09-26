@@ -1,30 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/surovtsev/Desktop/git/examle/ex3/ex3.csproj": {}
+    "C:\\Users\\elite\\Desktop\\examle\\ex3\\ex3.csproj": {}
   },
   "projects": {
-    "/Users/surovtsev/Desktop/git/examle/ex3/ex3.csproj": {
+    "C:\\Users\\elite\\Desktop\\examle\\ex3\\ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/surovtsev/Desktop/git/examle/ex3/ex3.csproj",
+        "projectUniqueName": "C:\\Users\\elite\\Desktop\\examle\\ex3\\ex3.csproj",
         "projectName": "ex3",
-        "projectPath": "/Users/surovtsev/Desktop/git/examle/ex3/ex3.csproj",
-        "packagesPath": "/Users/surovtsev/.nuget/packages/",
-        "outputPath": "/Users/surovtsev/Desktop/git/examle/ex3/obj/",
+        "projectPath": "C:\\Users\\elite\\Desktop\\examle\\ex3\\ex3.csproj",
+        "packagesPath": "C:\\Users\\elite\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elite\\Desktop\\examle\\ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/surovtsev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\elite\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,16 +37,15 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

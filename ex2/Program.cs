@@ -1,21 +1,37 @@
-﻿// Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+﻿using System;
 
-// 645 -> 5
+// Задача 21
 
-// 78 -> третьей цифры нет
+// Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 
-// 32679 -> 6
+// A (3,6,8); B (2,1,-7), -> 15.84
+
+// A (7,-5, 0); B (1,-1,9) -> 11.53
 
 Console.Clear();
-int Number = new Random().Next(1, 99999);
-Console.WriteLine($"Дано число: {Number}");
-string anyNumberText = Convert.ToString(Number);
-if (anyNumberText.Length > 2)
-{
-  Console.WriteLine($"Третьей цифрой числа {Number} является цифра {anyNumberText[2]}");
-}
-else
-{
-  Console.WriteLine($"у числа {Number} нет третьей цифры");
-}
+Console.WriteLine("Введите Координат X1: ");
+int x1 = int.Parse(Console.ReadLine());
 
+Console.WriteLine("Введите Координат X2: ");
+int x2 = int.Parse(Console.ReadLine()); 
+
+Console.WriteLine("Введите Координат X3: ");
+int x3 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите Координат Y1: ");
+int y1 = int.Parse(Console.ReadLine()); 
+
+Console.WriteLine("Введите Координат Y2: ");
+int y2 = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Введите Координат Y3: ");
+int y3 = int.Parse(Console.ReadLine()); 
+
+int [] a = {x1, x2, x3};
+int [] b = {y1, y2, y3};
+
+double Len = Math.Sqrt(Math.Pow((b[0] - a[0]), 2) + Math.Pow((b[1] - a[1]), 2) + Math.Pow((b[2] - a[2]), 2));
+
+// double Len = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y2), 2));
+
+Console.WriteLine("Расстояние между точками = "+ Len);
