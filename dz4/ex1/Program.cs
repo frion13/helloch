@@ -21,8 +21,8 @@ Console.Clear();
  int GetResult(int a, int b){
 
     
-    int result = a;
-    for (int i = a; i <= b; i++)    {
+    int result = 1;
+    for (int i = 1; i <= b; i++)    {
         
         result*=a;
     }
