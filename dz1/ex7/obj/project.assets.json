@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/surovtsev/.nuget/packages/": {}
+    "/Users/tatiana/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/surovtsev/Desktop/git/examle/ex7/ex7.csproj",
+      "projectUniqueName": "/Users/tatiana/Desktop/examle/dz1/ex7/ex7.csproj",
       "projectName": "ex7",
-      "projectPath": "/Users/surovtsev/Desktop/git/examle/ex7/ex7.csproj",
-      "packagesPath": "/Users/surovtsev/.nuget/packages/",
-      "outputPath": "/Users/surovtsev/Desktop/git/examle/ex7/obj/",
+      "projectPath": "/Users/tatiana/Desktop/examle/dz1/ex7/ex7.csproj",
+      "packagesPath": "/Users/tatiana/.nuget/packages/",
+      "outputPath": "/Users/tatiana/Desktop/examle/dz1/ex7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/surovtsev/.nuget/NuGet/NuGet.Config"
+        "/Users/tatiana/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }
